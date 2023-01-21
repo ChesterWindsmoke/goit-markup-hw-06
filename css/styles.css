@@ -776,7 +776,7 @@ header {
     position: absolute;
     top: 50%;
     left: 50%;
-    height: 584px;
+    min-height: 584px;
     width: 408px;
     background-color: #FFFFFF;
     padding-top: 72px;
